@@ -20,10 +20,10 @@ cd HC---Python-Banco
 2. Criar e Ativar o Ambiente Virtual
 O seu sistema precisa recriar a pasta venv antes de ativá-la.
 Bash
-# 2a. Cria o ambiente (cria a pasta 'venv')
+2a. Cria o ambiente (cria a pasta 'venv')
 python -m venv venv
 
-# 2b. Ativa o ambiente (usando o caminho de ativação correto para MINGW64/Windows)
+2b. Ativa o ambiente (usando o caminho de ativação correto para MINGW64/Windows)
 source venv/Scripts/activate
 
 Se for bem-sucedido, você verá o (venv) no seu prompt.
